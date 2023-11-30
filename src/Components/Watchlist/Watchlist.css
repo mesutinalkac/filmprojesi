@@ -1,0 +1,46 @@
+.watchlist {
+  margin-left: 200px;
+  width: 100%;
+  
+  
+}
+.title {
+  background: linear-gradient(to right,  #34495e,#8e44ad);
+  text-align: center;
+  padding: 10px;
+  color: white;
+  border: none;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  
+  
+}
+.watchlist-container {
+  background-color: black;
+  color: white;
+}
+
+.watchlist-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1.25rem;
+  border: none;
+}
+.watchlis-movie{
+  text-align: center;
+  margin-top: 20rem;
+  font-size: 39px;
+  color: gray;
+}
+.counter-movie{
+  background-color: #8e44ad;
+  width: 100px;
+  margin-top: 2px;
+  margin-left: 5px;
+  text-align: center;
+  color: white;
+  border-radius: 20px;
+  padding: 5px;
+}

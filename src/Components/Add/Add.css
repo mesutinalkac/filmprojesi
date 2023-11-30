@@ -1,0 +1,35 @@
+.add {
+  width: 100vw;
+  margin-left: 200px;
+ 
+}
+.add-container {
+}
+.add-wrapper {
+  background: linear-gradient(to right, #34495e, #8e44ad);
+  padding: 12px 0;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  text-align: center;
+  border: none;
+}
+.add-wrapper input {
+  width: 40rem;
+  text-align: center;
+  padding: .30rem 0;
+  margin-top: 4px;
+  outline: none;
+  font-size: 1.25rem;
+  border: none;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+
+}
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1.25rem;
+  border: none;
+}
