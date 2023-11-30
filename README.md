@@ -17,6 +17,9 @@ Bu proje, kullanıcının film aramasını yapmasına, bulduğu filmleri listesi
 ### Ekran Görüntüsü 
 ![Film proje resim](src/img/watchlist2.png)
 
+[Proje Önizleme linki](https://filmprojesi1453.netlify.app/watched)
+
+
 
 
 
